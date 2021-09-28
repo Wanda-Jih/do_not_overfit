@@ -14,7 +14,7 @@ Predict the binary `target` associated with each row, without overfitting to the
 
 
 ### Work Flow
-![](https://i.imgur.com/s8275UB.png)
+![](https://i.imgur.com/EfHjWcn.png)
 
 ### Datase
 * train.csv - the training set. 250 rows.
