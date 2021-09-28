@@ -42,5 +42,5 @@ There are three models which are used in this project
 Lasso model adds L1 penalty to standard linear model. Using the L1 penalty, the model can reduce some parameters to 0, which reduce the number of input dimension. So, this model is suitable for this dataset.
 
 ### Conclusion
-We put out result to Kaggle, and get 0.871 score
+We put our result to Kaggle, and get 0.871 score
 
