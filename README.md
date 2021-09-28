@@ -13,6 +13,8 @@ Predict the binary `target` associated with each row, without overfitting to the
 1. Explicitly penalize overly complex models(ok)
 
 
+### Work Flow
+![](https://i.imgur.com/s8275UB.png)
 
 ### Datase
 * train.csv - the training set. 250 rows.
